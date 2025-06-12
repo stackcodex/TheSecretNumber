@@ -1,4 +1,4 @@
-# 1. SecretNumber: Test Your Wits!
+# SecretNumber: Test Your Wits!
 Hey! Welcome to *SecretNumber*, a classic "Guess the Number" game crafted with Python. It's a fun, little command-line game designed to give your brain a quick, enjoyable workout.
 
 ## What's the Game About?
