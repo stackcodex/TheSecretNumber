@@ -34,12 +34,12 @@ Want to play this game yourself? It's super easy!
     * Once downloaded, go inside the newly created game folder:
         
         cd your-secretnumber-repo
-        # This will be the name of your GitHub repository folder.
+        * This will be the name of your GitHub repository folder.
         
 3.  *Play the Game!*
     * Now, just run the game using Python:
         
         python SecretNumber.py
-        # Make sure 'SecretNumber.py' is the exact name of your game file.
+        * Make sure 'SecretNumber.py' is the exact name of your game file.
         
-# THANK YOU!
+## THANK YOU!
